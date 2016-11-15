@@ -1,0 +1,7 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="sac_rsinet_com_br" locator="//BrowserApplication" urlPattern="*sac.rsinet.com.br*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="button" locator="//INPUT[@class=&apos;button&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
