@@ -2,11 +2,6 @@
 <recorderProject version="17.5">
   <applicationConfiguration>
     <moduleNamePattern>*\calc.exe</moduleNamePattern>
-    <baseStateInfo>
-      <executable>C:\Windows\system32\calc.exe</executable>
-      <workingDirectory>C:\Windows\system32</workingDirectory>
-      <locator>Calculadora</locator>
-    </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
